@@ -29,3 +29,26 @@ public class InfoboxExtractor {
     }
 }
 
+OUTPUT:
+
+{{Infobox medical condition (new)
+| name            = Autism
+| image           = Autism-stacking-cans 2nd edit.jpg
+| alt             = Boy stacking cans
+| caption         = Repetitively stacking or lining up objects is associated with autism.
+| field           = [[Psychiatry]]
+| symptoms        = Trouble with [[Interpersonal relationship|social interaction]], impaired [[communication]], restricted interests, repetitive behavior 
+| complications   =
+| onset           = By age two or three  
+| duration        = Long-term 
+| causes          = [[Heritability of autism|Genetic]] and environmental factors 
+| risks           = 
+| diagnosis       = Based on behavior and developmental history 
+| differential    = [[Reactive attachment disorder]], [[intellectual disability]], [[schizophrenia]] 
+| prevention      =
+| treatment       = [[Behavioral therapy]], [[speech therapy]], [[psychotropic medication]] 
+| medication      =  [[Atypical antipsychotics|Antipsychotics]], [[antidepressants]], [[stimulants]] (associated symptoms)   
+| prognosis       = Frequently poor 
+| frequency       = 24.8 million (2015) 
+| deaths          = 
+}}
